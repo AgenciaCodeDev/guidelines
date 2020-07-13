@@ -9,7 +9,7 @@
 - [Classes, Constantes e Métodos](#classes-constantes-e-m%C3%A9todos)
 - [Estruturas de controle](#estruturas-de-controle)
 
-[[⬅ Voltar para Boas Práticas]](https://github.com/VictorOtavio/Guidelines/tree/master/boas-praticas)
+[[⬅ Voltar para Boas Práticas]](../boas-praticas)
 
 ## Visão Geral
 
