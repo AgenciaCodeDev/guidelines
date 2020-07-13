@@ -8,7 +8,7 @@
 - [Front-end](#front-end)
 - [Back-end](#back-end)
 
-[[⬅ Voltar para Guias]](https://github.com/VictorOtavio/Guidelines)
+[[⬅ Voltar para Guias]](../README.md)
 
 ## Geral
 
