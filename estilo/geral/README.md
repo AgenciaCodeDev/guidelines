@@ -8,7 +8,7 @@
 - [Formatação](#formata%C3%A7%C3%A3o)
 - [Ordenação](#ordena%C3%A7%C3%A3o)
 
-[[⬅ Voltar para Estilo]](https://github.com/VictorOtavio/Guidelines/tree/master/estilo)
+[[⬅ Voltar para Estilo]](../estilo)
 
 ## Idioma
 
